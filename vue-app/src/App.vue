@@ -20,6 +20,7 @@ export default {
     return {
       quotes: [
         `GIRIBOLDIIIIIIIIII!`,
+        `Ogni scriva che righi`,
         `Non dico mai cagate, cara!`,
         `Io no ragazzi, git lens parla`,
         `Fottiti giriboldi.
